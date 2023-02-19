@@ -7,7 +7,10 @@ This is an exercise for educational purposes Inspired by David Battersby tutoria
 
 1)  sign up / sign in / edit account using the devise gem. 
 2)  Using ruby scaffold comand to generate the main table
-3)  connect the relatioship between the tables.
+3)  connect the relationship between the tables * (Model/Acount)
+    
+4) creating Navbar and styling with bootstrap.   
+
 
 
 * Ruby version 3.0.0
