@@ -9,9 +9,11 @@
         <li><a href="#" class="nav-link px-2 link-dark">Features</a></li>
         <li><a href="#" class="nav-link px-2 link-dark">Pricing</a></li>
         <li><a href="#" class="nav-link px-2 link-dark">FAQs</a></li>
+        
 
-        <li><a href="/models/sign_in" class="nav-link px-2 link-dark">log in</a></li>
-        <li><a href="/models/sign_up" class="nav-link px-2 link-dark">Sing up</a></li>
+        <%= link_to "log in", new_model_session_path, class: "nav-link px-2 link-dark" %>
+        <%= link_to "Sing up", new_model_registration_path, class: "nav-link px-2 link-dark" %>
+
       </ul>
 
       <div class="col-md-3 text-end">
