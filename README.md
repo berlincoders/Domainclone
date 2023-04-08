@@ -16,7 +16,6 @@ This is an exercise for educational purposes Inspired by David Battersby tutoria
 * Ruby version 3.0.0
 * Rails  ~> 7.0.4, >= 7.0.4.2
 * Devise ~> 4.9
-* 
 
 
 
